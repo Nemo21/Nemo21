@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Bableen Saggu.<br>I'm a frontend developer by profession,game developer by heart</h2>
+<h2 align="center">Hi 👋! I am Bableen Saggu.<br>I'm a Software developer by profession,game developer by heart</h2>
 
 ###
 
